@@ -3,7 +3,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <h3 align="left">👋 Hi, I'm Smiriti Kapoor  
-<br><br>💻 <b>Computer Science and Engineering (Data Science) Student</b>  
+<br><br>💻 <b>Computer Science and Engineering Student</b>  
 <br>🏫 <b>Meerut Institute of Engineering and Technology, Meerut</b>  
 <br>🚀 Passionate about <b>full-stack development</b> and <b>problem-solving</b>
 </h3>
