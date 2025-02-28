@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/b5/78/5a/b5785af39d097409d685d68c242c146a.jpg"  />
+  
 </div>
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h3 align="left"># 👋 Hi, I'm Ayush Sharma  <br><br>💻 **Computer Science and Engineering (Data Science) Student**  <br>🏫 **Meerut Institute of Engineering and Technology, Meerut**  <br>🚀 Passionate about **full-stack development** and **problem-solving**</h3>
+<h3 align="left"># 👋 Hi, I'm Smiriti Kapoor  <br><br>💻 **Computer Science and Engineering (Data Science) Student**  <br>🏫 **Meerut Institute of Engineering and Technology, Meerut**  <br>🚀 Passionate about **full-stack development** and **problem-solving**</h3>
 
 ###
 
