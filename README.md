@@ -81,7 +81,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ayush2004sharma/smiriti911/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/smiriti911/smiriti911/output/snake.svg" alt="Snake animation" />
 
 
 
