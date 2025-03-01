@@ -81,4 +81,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/smiriti911/count.svg?" />
 </div>
-![Snake animation](https://github.com/smiriti911/smiriti911/blob/output/snake.svg)
+
+![snake animation](https://github.com/smiriti911/smiriti911/blob/output/github-contribution-grid-snake2.svg)
