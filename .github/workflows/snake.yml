@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: "smiriti911"  # Replace with your GitHub username
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake2.svg
           snake_color: "blue"
 
       # Deploy snake animation to GitHub Pages
