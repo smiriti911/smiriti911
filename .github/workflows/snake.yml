@@ -27,7 +27,8 @@ jobs:
           github_user_name: smiriti911
           outputs: |
             dist/snake.svg?palette=github-dark
-            dist/snake-custom.svg?color_snake=#f7929e&color_dots=#0a0d14,#b0ffd9,#7ee8ff,#ffaad4,#d1afff
+            dist/snake-custom.svg?color_snake=#e85b70&color_dots=#181b21,#2dbf9b,#1aa35e,#24887b,#1c6d86
+
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
