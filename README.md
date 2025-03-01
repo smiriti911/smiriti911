@@ -76,7 +76,7 @@
 
 ###
 
-<img src="https://github.com/smiriti911/smiriti911/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+<img src="https://github.com/smiriti911/smiriti911/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 <div align="center">
