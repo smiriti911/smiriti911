@@ -76,8 +76,7 @@
 
 ###
 
-<img src="https://github.com/smiriti911/smiriti911/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+<img src="https://github.com/smiriti911/smiriti911/blob/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/smiriti911/count.svg?" />
