@@ -82,6 +82,32 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </table>
 </div>
 
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+    <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
+      </td>
+        <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Java"/><br>SpringBoot
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 #### Frontend
 | HTML | CSS | Bootstrap | Pug | JavaScript | React | PHP |
 |------|-----|----------|-----|------------|-------|-----|
