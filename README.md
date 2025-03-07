@@ -1,7 +1,7 @@
 <div align="center"></div>
 
 <div>
-    <img src="assets/head.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/head.gif" alt="About Me Terminal GIF"/>
 </div>
 
 
