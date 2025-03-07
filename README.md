@@ -41,7 +41,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 ---
 
 ### **Studying**
-```markdown
+
 | AWS | Azure | Ruby |
 |-----|------|------|
 | ![AWS](https://skillicons.dev/icons?i=aws) | ![Azure](https://skillicons.dev/icons?i=azure) | ![Ruby](https://skillicons.dev/icons?i=ruby) |
@@ -49,6 +49,8 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 <!--
      I also have my own blog with useful information, check it out ^^
 -->
+
+
 
 ###
 
