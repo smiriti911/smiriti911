@@ -1,6 +1,6 @@
 <div align="center"></div>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jost&pause=1000&color=CDF78C&width=435&lines=Hello%2C+it's+Smiriti+Kapoor+!;Software+Developer" alt="Typing SVG" /></a>
 
 <h3 align="left">👋 Hi, I'm Smiriti Kapoor  
 <br><br>💻 <b>Computer Science and Engineering Student</b>  
