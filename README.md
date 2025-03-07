@@ -6,7 +6,7 @@
 
 ###
 ###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=35&duration=4000&pause=1000&color=A4F785&vCenter=true&width=435&lines=Hello%2C+it's+Smiriti+Kapoor+!;I+am+a+Software+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=35&duration=4000&pause=1000&color=B3F79A&vCenter=true&width=435&lines=Hello%2C+it's+Smiriti+Kapoor+!;I+am+a+Software+Developer" alt="Typing SVG" /></a>
 ###
 
 ### My mission
