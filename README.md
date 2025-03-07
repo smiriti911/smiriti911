@@ -16,11 +16,35 @@ I’m driven by a love for solving problems! With a technical background, I’ve
      This is the list of my skills and tools I am studying!
 -->
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+### Main Skills
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+#### Frontend
+| HTML | CSS | Bootstrap | Pug | JavaScript | React | PHP |
+|------|-----|----------|-----|------------|-------|-----|
+| ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![Pug](https://skillicons.dev/icons?i=pug) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![React](https://skillicons.dev/icons?i=react) | ![PHP](https://skillicons.dev/icons?i=php) |
+
+#### Backend
+| Node.js | Express | Java | Spring Boot | C++ | C# | .NET | Jest | Jenkins |
+|---------|---------|------|-------------|----|----|------|------|---------|
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express](https://skillicons.dev/icons?i=express) | ![Java](https://skillicons.dev/icons?i=java) | ![Spring](https://skillicons.dev/icons?i=spring) | ![C++](https://skillicons.dev/icons?i=cpp) | ![C#](https://skillicons.dev/icons?i=cs) | ![.NET](https://skillicons.dev/icons?i=dotnet) | ![Jest](https://skillicons.dev/icons?i=jest) | ![Jenkins](https://skillicons.dev/icons?i=jenkins) |
+
+#### Database & DevOps
+| MongoDB | MySQL | Git | GitHub | Regex |
+|---------|------|----|--------|-------|
+| ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Regex](https://skillicons.dev/icons?i=regex) |
+
+#### Tools & Others
+| Eclipse | Android Studio | Blender | Photoshop | Notion |
+|---------|---------------|---------|-----------|--------|
+| ![Eclipse](https://skillicons.dev/icons?i=eclipse) | ![Android Studio](https://skillicons.dev/icons?i=androidstudio) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Photoshop](https://skillicons.dev/icons?i=ps) | ![Notion](https://skillicons.dev/icons?i=notion) |
+
+---
+
+### **Studying**
+```markdown
+| AWS | Azure | Ruby |
+|-----|------|------|
+| ![AWS](https://skillicons.dev/icons?i=aws) | ![Azure](https://skillicons.dev/icons?i=azure) | ![Ruby](https://skillicons.dev/icons?i=ruby) |
 
 <!--
      I also have my own blog with useful information, check it out ^^
