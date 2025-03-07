@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">📌 About Me</h2>
+<h2 align="left">My Mission</h2>
 
 <h4 align="left">## 📌 About Me  <br><br>- 🎯 Motivated and passionate **Computer Science and Engineering student** with strong problem-solving skills and a focus on **Data Science**.  <br>- 💻 Proficient in **React, Next.js, Node.js, Spring Boot, and Java**, with hands-on experience in building **e-commerce applications** and **portfolio websites**.  <br>- 🛠️ Adept at working in both **team and independent settings** to deliver high-quality, scalable solutions.  <br>- 📈 Solved **350+ Data Structures and Algorithms (DSA) questions** on LeetCode.  <br>- 🚀 Actively learning and applying new technologies to expand knowledge and create impactful projects.  <br>- 🔍 Enthusiastic about **AI, cloud computing, and backend development**, constantly exploring new trends in tech.</h4>
 
