@@ -9,14 +9,22 @@
 
 ###
 
-<h2 align="left">My Mission</h2>
+### My mission
+I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
-<h4 align="left">## 📌 About Me  <br><br>- 🎯 Motivated and passionate **Computer Science and Engineering student** with strong problem-solving skills and a focus on **Data Science**.  <br>- 💻 Proficient in **React, Next.js, Node.js, Spring Boot, and Java**, with hands-on experience in building **e-commerce applications** and **portfolio websites**.  <br>- 🛠️ Adept at working in both **team and independent settings** to deliver high-quality, scalable solutions.  <br>- 📈 Solved **350+ Data Structures and Algorithms (DSA) questions** on LeetCode.  <br>- 🚀 Actively learning and applying new technologies to expand knowledge and create impactful projects.  <br>- 🔍 Enthusiastic about **AI, cloud computing, and backend development**, constantly exploring new trends in tech.</h4>
+<!--
+     This is the list of my skills and tools I am studying!
+-->
 
-###
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
-<h2 align="left">💻 I Code With</h2>
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 
+<!--
+     I also have my own blog with useful information, check it out ^^
+-->
 <div align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
