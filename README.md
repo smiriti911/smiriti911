@@ -240,16 +240,16 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 <div align="center">
  
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=15&stroke=ff007f&fire=ff007f&ring=00ff00&currStreakLabel=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=15&stroke=ff007f&fire=ff007f&ring=00ff00&currStreakLabel=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=true&border_radius=15&show_icons=true&theme=transparent&icon_color=ff007f&text_color=00ff00&title_color=ff007f" alt="Smiriti's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=false&border_radius=15&show_icons=true&theme=transparent&icon_color=ff007f&text_color=00ff00&title_color=ff007f" alt="Smiriti's GitHub stats">
 
   
   <br>
   
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/smiriti911/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=00ff00&line=ff007f&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=00ff00&line=ff007f&point=00ff00&area=true&hide_border=false&border_radius=15" alt="GitHub Activity Graph"/>
   </a>
 
   <br>
