@@ -239,18 +239,19 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&icon_color=#FFB6C1&text_color=#5DBB63&title_color=#FF69B4" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&icon_color=00ff00&text_color=00ff00&title_color=ff007f" height="150" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smiriti911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&title_color=#FF69B4&text_color=#5DBB63" height="150" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smiriti911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&title_color=ff007f&text_color=00ff00" height="150" alt="Top Languages" /> 
   
-  <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&stroke=#FFB6C1&fire=#FF69B4&ring=#5DBB63&currStreakLabel=#FF69B4&currStreakNum=#5DBB63&sideNums=#5DBB63&dates=#77DD77" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&stroke=ff007f&fire=ff007f&ring=00ff00&currStreakLabel=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00" height="150" alt="streak graph" />
 
   <br>
 
   <a href="https://github.com/smiriti911/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=#77DD77&line=#FF69B4&point=#FFB6C1&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=00ff00&line=ff007f&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </div>
+
 
 
 
