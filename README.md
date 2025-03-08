@@ -26,6 +26,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 <h3 align="center">Web Development</h3>
 
+make this well aligned and pretty i do not want the table lines to be visible make sure they take less space veritically 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -178,54 +179,58 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </div>
 
 <h3 align="center">AI/ML & Data Science</h3>
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 15px;">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; border-collapse: collapse;">   
-    <!-- Languages & Libraries -->
-    <thead>
-      <tr>
-        <th colspan="5" style="color: white; padding: 8px;">Languages & Libraries</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none; padding: 10px;">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
-        </td>
-        <td align="center" style="border: none; padding: 10px;">
-          <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
-        </td>
-        <td align="center" style="border: none; padding: 10px;">
-          <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="70" height="50"/><br>Pandas
-        </td>
-        <td align="center" style="border: none; padding: 10px;">
-          <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="70" height="60"/><br>TensorFlow
-        </td>
-        <td align="center" style="border: none; padding: 10px;">
-          <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
-        </td>
-      </tr>
-    </tbody>
-    <!-- Frameworks & Tools -->
-    <thead>
-      <tr>
-        <th colspan="3" style="color: white; padding: 8px;">Frameworks & Tools</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none; padding: 10px;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="70" height="50"/><br>LangChain
-        </td>
-        <td align="center" style="border: none; padding: 10px;">
-          <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="50"/><br>Ollama
-        </td>
-        <td align="center" style="border: none; padding: 10px;">
-          <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
-        </td>
-      </tr>
-    </tbody>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
+      </td>
+      <td align="center" style="border: none;">
+<!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
+      </td>
+    </tr>
+  </tbody>
+ </table>
+</div>
 
-  </table>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
+      </td>
+  <td align="center" style="border: none;">
+        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 
