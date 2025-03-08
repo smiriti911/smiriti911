@@ -131,7 +131,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 
-    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
