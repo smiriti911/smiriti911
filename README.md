@@ -81,10 +81,15 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 </div> 
+
+
+
+
+
 <div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
 
   <!-- Backend Table -->
-  <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 400px; text-align: center;">
+  <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 600px; text-align: center;">
     <thead>
       <tr>
         <th style="color: white; padding: 10px;">Backend</th>
@@ -130,6 +135,9 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     </tbody>
   </table>
 
+  <!-- Vertical Separator Line -->
+  <div style="border-left: 2px solid white; height: 200px; margin: 0 10px;"></div>
+
   <!-- Containerization Table -->
   <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 400px; text-align: center;">
     <thead>
@@ -164,7 +172,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </table>
 
 </div>
-
 
 
 <div align="center">
