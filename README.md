@@ -109,7 +109,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </table>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Database Table -->
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px;">
