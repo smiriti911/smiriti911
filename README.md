@@ -81,49 +81,48 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 </div>
-
-<div align="">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-      </td>
-    <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
-      </td>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="4" align="center" style="color: white;">Backend</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
         <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Java"/><br>SpringBoot
-      </td>
-    </tr>
-  </tbody>
-</table>
-     <!-- Containerization & Orchestration Table -->
-    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
-      <thead>
-        <tr>
-          <th colspan="2" align="center" style="color: white;">Containerization & Orchestration</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="center" style="border: none;">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
-          </td>
-          <td align="center" style="border: none;">
-            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-          </td>
-        </tr>
-      </tbody>
-    </table>
+          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/><br>SpringBoot
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
+    <thead>
+      <tr>
+        <th colspan="2" align="center" style="color: white;">Containerization & Orchestration</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div align="center">
