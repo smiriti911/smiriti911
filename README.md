@@ -25,7 +25,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </h1>
 
 <h3 align="center">Web Development</h3>
-make this well aligned and pretty i do not want the table lines to be visible make sure they take less space veritically 
+
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
