@@ -109,7 +109,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
     <thead>
       <tr>
-        <th colspan="2" align="center" style="color: white;">Containerization & Orchestration</th>
+        <th colspan="2" align="center" style="color: white;">Container</th>
       </tr>
     </thead>
     <tbody>
@@ -126,55 +126,50 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </div>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%;">
   <!-- Database Table -->
-    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
-      <thead>
-        <tr>
-          <th colspan="3" align="center" style="color: white;">Database</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="center" style="border: none;">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-          </td>
-          <td align="center" style="border: none;">
-            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-          </td>
-          <td align="center" style="border: none;">
-            <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-          </td>
-        </tr>
-      </tbody>
-    </table>
-   
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
+    <thead>
+      <tr>
+        <th colspan="3" align="center" style="color: white;">Database</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-  </div>
-</div>
-
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <!-- Cloud Providers Table -->
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
+    <thead>
+      <tr>
+        <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <h3 align="center">AI/ML & Data Science</h3>
