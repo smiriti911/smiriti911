@@ -85,47 +85,64 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 700px; text-align: center;">
   <thead>
     <tr>
-      <th style="color: white;">Backend</th>
-      <th style="color: white;">Containerization</th>
+      <th style="color: white; padding: 10px;">Backend</th>
+      <th style="color: white; padding: 10px;">Containerization</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <!-- Backend Section -->
-      <td style="border: none;">
-        <a href="https://nodejs.org" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
-        </a>
-        <br>Node.js
-        <a href="https://expressjs.com" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
-        </a>
-        <br>Express
-        <a href="https://www.java.com" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-        </a>
-        <br>Java
-        <a href="https://spring.io" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/>
-        </a>
-        <br>SpringBoot
+      <td style="border: none;;">
+        <table style="width: 100%; border-collapse: collapse;">
+          <tr>
+            <td style="border: none;">
+              <a href="https://nodejs.org" style="color: white;">
+                <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
+              </a>
+              <br>Node.js
+            </td>
+            <td style="border: none; ">
+              <a href="https://expressjs.com" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
+              </a>
+              <br>Express
+            </td>
+            <td style="border: none; ">
+              <a href="https://www.java.com" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
+              </a>
+              <br>Java
+            </td>
+            <td style="border: none; ">
+              <a href="https://spring.io" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/>
+              </a>
+              <br>SpringBoot
+            </td>
+          </tr>
+        </table>
       </td>
-
-      <!-- Containerization Section -->
-      <td style="border: none;">
-        <a href="https://www.docker.com" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
-        </a>
-        <br>Docker
-        <a href="https://kubernetes.io" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
-        </a>
-        <br>Kubernetes
+      <td style="border: none; ">
+        <table style="width: 100%; border-collapse: collapse;">
+          <tr>
+            <td style="border: none; ">
+              <a href="https://www.docker.com" style="color: white;">
+                <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
+              </a>
+              <br>Docker
+            </td>
+            <td style="border: none; ">
+              <a href="https://kubernetes.io" style="color: white;">
+                <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
+              </a>
+              <br>Kubernetes
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </tbody>
 </table>
-
 
 
 
