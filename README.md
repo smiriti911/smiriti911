@@ -8,10 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=35&pause=1000&color=B3F79A&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Engineer;AI+Entusiast;" alt="Typing SVG" />
 
 </p>
-###
-###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=35&duration=4000&pause=1000&color=B3F79A&vCenter=true&width=435&lines=Hello%2C+it's+Smiriti+Kapoor+!;I+am+a+Software+Developer" alt="Typing SVG" /></a>
-###
+
 
 ### My mission
 I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
