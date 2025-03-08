@@ -259,11 +259,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=ffffff&line=ff007f&point=00ff00&area=true&hide_border=false&border_radius=15" alt="GitHub Activity Graph"/>
   </a>
 
-  <br>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiriti911&hide=html&hide_border=false&layout=compact&langs_count=8&theme=transparent&title_color=ff007f&text_color=ffffff" alt="Top Languages">
-
 </div>
 
 
