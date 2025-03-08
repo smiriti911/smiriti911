@@ -205,13 +205,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
       </td>
     </tr>
   </tbody>
- </table>
-</div>
-
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
+        <thead>
     <tr>
       <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
     </tr>
@@ -229,6 +223,13 @@ I’m driven by a love for solving problems! With a technical background, I’ve
       </td>
     </tr>
   </tbody>
+ </table>
+</div>
+
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+
 </table>
 </div>
 
