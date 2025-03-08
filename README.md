@@ -240,21 +240,20 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 <div align="center">
 
   <!-- GitHub Streak & Stats (Side by Side) -->
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=15&stroke=ff007f&fire=ff007f&ring=00ff00&currStreakLabel=00ff00&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img width="45%" src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=15&stroke=ff007f&fire=ff007f&ring=00ff00&currStreakLabel=00ff00&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
     
-<img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=false&border_radius=15&show_icons=true&theme=transparent&icon_color=ff007f&text_color=ffffff&title_color=00ff00" alt="Smiriti's GitHub stats">
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=false&border_radius=15&show_icons=true&theme=transparent&icon_color=ff007f&text_color=ffffff&title_color=00ff00" alt="Smiriti's GitHub stats">
   </div>
 
   <br>
 
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/smiriti911/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=00ff00&line=ff007f&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=00ff00&line=ff007f&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 
 </div>
-
 
 
 ###
