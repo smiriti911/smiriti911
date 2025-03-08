@@ -5,7 +5,7 @@
 </div>
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Smiriti Kapoor</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=35&pause=1000&color=B3F79A&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Engineer;AI+Entusiast;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=35&pause=1000&color=F78CCD&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Engineer;AI+Entusiast;" alt="Typing SVG" />
 
 </p>
 
