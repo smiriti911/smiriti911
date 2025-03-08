@@ -241,12 +241,8 @@ I’m driven by a love for solving problems! With a technical background, I’ve
  
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=15&stroke=6a0dad&fire=6a0dad&ring=ffcc00&currStreakLabel=ffcc00&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
-
-  <br>
-
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=false&border_radius=15&show_icons=true&theme=transparent&icon_color=ffcc00&text_color=ffffff&title_color=6a0dad" alt="Smiriti's GitHub stats">
-
   <br>
 
   <!-- GitHub Activity Graph -->
