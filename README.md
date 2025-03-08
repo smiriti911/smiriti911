@@ -83,7 +83,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </div> 
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 700px;">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
     <thead>
       <tr>
         <th align="center" style="color: white; width: 50%;">Backend</th>
