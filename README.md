@@ -83,11 +83,10 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </div> 
 
 
-
 <div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
 
   <!-- Backend Table -->
-  <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 350px; text-align: center;">
+  <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 400px; text-align: center;">
     <thead>
       <tr>
         <th style="color: white; padding: 10px;">Backend</th>
@@ -132,7 +131,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </table>
 
   <!-- Containerization Table -->
-  <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 350px; text-align: center;">
+  <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 400px; text-align: center;">
     <thead>
       <tr>
         <th style="color: white; padding: 10px;">Containerization</th>
@@ -163,6 +162,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </table>
 
 </div>
+
 
 
 
