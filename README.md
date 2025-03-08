@@ -245,6 +245,9 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+[![Smiriti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=00ff00&line=ff007f&point=00ff00&area=true&hide_border=true)](https://github.com/smiriti911/github-readme-activity-graph)
+
+
 ###
 
 <img src="https://github.com/smiriti911/smiriti911/blob/output/snake-custom.svg" alt="Snake animation" />
