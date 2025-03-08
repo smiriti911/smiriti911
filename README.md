@@ -106,6 +106,24 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     </tr>
   </tbody>
 </table>
+     <!-- Containerization & Orchestration Table -->
+    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
+      <thead>
+        <tr>
+          <th colspan="2" align="center" style="color: white;">Containerization & Orchestration</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+          </td>
+          <td align="center" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+          </td>
+        </tr>
+      </tbody>
+    </table>
 </div>
 
 <div align="center">
@@ -131,24 +149,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
         </tr>
       </tbody>
     </table>
-    <!-- Containerization & Orchestration Table -->
-    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
-      <thead>
-        <tr>
-          <th colspan="2" align="center" style="color: white;">Containerization & Orchestration</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="center" style="border: none;">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
-          </td>
-          <td align="center" style="border: none;">
-            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-          </td>
-        </tr>
-      </tbody>
-    </table>
+   
 
   </div>
 </div>
