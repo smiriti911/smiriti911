@@ -81,7 +81,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 </div> 
-
 <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 700px; text-align: center;">
   <thead>
     <tr>
@@ -92,28 +91,28 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <tbody>
     <tr>
       <!-- Backend Section -->
-      <td style="border: none;;">
-        <table style="width: 100%; border-collapse: collapse;">
+      <td style="border: none;">
+        <table style="margin: auto; border-collapse: collapse;">
           <tr>
-            <td style="border: none;">
+            <td align="center" style="border: none;">
               <a href="https://nodejs.org" style="color: white;">
                 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
               </a>
               <br>Node.js
             </td>
-            <td style="border: none; ">
+            <td align="center" style="border: none;">
               <a href="https://expressjs.com" style="color: white;">
                 <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
               </a>
               <br>Express
             </td>
-            <td style="border: none; ">
+            <td align="center" style="border: none;">
               <a href="https://www.java.com" style="color: white;">
                 <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
               </a>
               <br>Java
             </td>
-            <td style="border: none; ">
+            <td align="center" style="border: none;">
               <a href="https://spring.io" style="color: white;">
                 <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/>
               </a>
@@ -122,16 +121,16 @@ I’m driven by a love for solving problems! With a technical background, I’ve
           </tr>
         </table>
       </td>
-      <td style="border: none; ">
-        <table style="width: 100%; border-collapse: collapse;">
+      <td style="border: none;">
+        <table style="margin: auto; border-collapse: collapse;">
           <tr>
-            <td style="border: none; ">
+            <td align="center" style="border: none;">
               <a href="https://www.docker.com" style="color: white;">
                 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
               </a>
               <br>Docker
             </td>
-            <td style="border: none; ">
+            <td align="center" style="border: none;">
               <a href="https://kubernetes.io" style="color: white;">
                 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
               </a>
