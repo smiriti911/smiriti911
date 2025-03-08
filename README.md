@@ -244,7 +244,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-[![Smiriti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&custom_title=Smiriti's%20GitHub%20Activity&hide_border=true&theme=github)](https://github.com/smiriti911/github-readme-activity-graph)
+[![Smiriti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&custom_title=Smiriti's%20GitHub%20Activity&hide_border=true&theme=modern-lilac)](https://github.com/smiriti911/github-readme-activity-graph)
 
 
 
