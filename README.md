@@ -238,17 +238,41 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&icon_color=00ff00&text_color=00ff00&title_color=ff007f" height="150" alt="GitHub Stats" />
+ 
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=15&stroke=ff69b4&fire=ff69b4&ring=00ff7f&currStreakLabel=00ff7f&currStreakNum=00ff7f&sideNums=00ff7f&dates=00ff7f" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smiriti911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&title_color=ff007f&text_color=00ff00" height="150" alt="Top Languages" /> 
+  <br>
   
-  <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&stroke=ff007f&fire=ff007f&ring=00ff00&currStreakLabel=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00" height="150" alt="streak graph" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&custom_title=Smiriti's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=00000000&color=00ff7f&line=ff69b4&point=00ff7f&area_color=00000000&title_color=ff69b4&area=true" alt="GitHub Activity Graph" />
 
   <br>
 
-  <a href="https://github.com/smiriti911/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=00ff00&line=ff007f&point=00ff00&area=true&hide_border=false" alt="GitHub Activity Graph"/>
-  </a>
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+          <!-- Top Languages -->
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiriti911&hide=html&hide_border=true&layout=compact&langs_count=8&theme=transparent&title_color=ff69b4&text_color=00ff7f" alt="Top Languages">
+        </td>
+        <td>
+          <!-- Repos Per Language -->
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smiriti911&theme=transparent&hide_border=true&title_color=ff69b4&text_color=00ff7f" alt="Repos Per Language">
+        </td>
+        <td>
+          <!-- Most Commit Language -->
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smiriti911&theme=transparent&hide_border=true&title_color=ff69b4&text_color=00ff7f" alt="Most Commit Language">
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=true&border_radius=15&show_icons=true&theme=transparent&icon_color=ff69b4&text_color=00ff7f&title_color=ff69b4" alt="Smiriti's GitHub stats">
+
+  <!-- Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smiriti911&theme=transparent&hide_border=true&title_color=ff69b4&text_color=00ff7f">
 </div>
 
 
