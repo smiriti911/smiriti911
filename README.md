@@ -81,7 +81,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 </div> 
-
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 700px;">
     <thead>
@@ -92,54 +91,46 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     </thead>
     <tbody>
       <tr>
-        <!-- Backend Row -->
-        <td align="center" style="border: none;">
-          <table>
-            <tr>
-              <td align="center" style="border: none;">
-                <a href="https://nodejs.org" style="color: white;">
-                  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
-                </a>
-                <br>Node.js
-              </td>
-              <td align="center" style="border: none;">
-                <a href="https://expressjs.com" style="color: white;">
-                  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
-                </a>
-                <br>Express
-              </td>
-              <td align="center" style="border: none;">
-                <a href="https://www.java.com" style="color: white;">
-                  <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-                </a>
-                <br>Java
-              </td>
-              <td align="center" style="border: none;">
-                <a href="https://spring.io" style="color: white;">
-                  <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/>
-                </a>
-                <br>SpringBoot
-              </td>
-            </tr>
-          </table>
+        <!-- Backend -->
+        <td align="center" style="border: none; display: flex; justify-content: center; gap: 20px;">
+          <div>
+            <a href="https://nodejs.org" style="color: white;">
+              <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
+            </a>
+            <br>Node.js
+          </div>
+          <div>
+            <a href="https://expressjs.com" style="color: white;">
+              <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
+            </a>
+            <br>Express
+          </div>
+          <div>
+            <a href="https://www.java.com" style="color: white;">
+              <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
+            </a>
+            <br>Java
+          </div>
+          <div>
+            <a href="https://spring.io" style="color: white;">
+              <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/>
+            </a>
+            <br>SpringBoot
+          </div>
         </td>
-        <td align="center" style="border: none;">
-          <table>
-            <tr>
-              <td align="center" style="border: none;">
-                <a href="https://www.docker.com" style="color: white;">
-                  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
-                </a>
-                <br>Docker
-              </td>
-              <td align="center" style="border: none;">
-                <a href="https://kubernetes.io" style="color: white;">
-                  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
-                </a>
-                <br>Kubernetes
-              </td>
-            </tr>
-          </table>
+        <td align="center" style="border: none; display: flex; justify-content: center; gap: 20px;">
+          <div>
+            <a href="https://www.docker.com" style="color: white;">
+              <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
+            </a>
+            <br>Docker
+          </div>
+          <div>
+            <a href="https://kubernetes.io" style="color: white;">
+              <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
+            </a>
+            <br>Kubernetes
+          </div>
         </td>
       </tr>
     </tbody>
