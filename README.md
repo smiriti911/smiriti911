@@ -27,7 +27,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 <h3 align="center">Web Development</h3>
 
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 
   <!-- Frontend Table -->
   <table style="background-color: black; color: white; border-radius: 15px; overflow: hidden; border-collapse: collapse; padding: 5px;">
