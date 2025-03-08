@@ -82,7 +82,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </table>
 </div>
 
-<div align="center">
+<div align="">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
