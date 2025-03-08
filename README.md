@@ -4,7 +4,10 @@
     <img src="./assets/head.gif" alt="About Me Terminal GIF"/>
 </div>
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Smiriti Kapoor</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Engineer;AI+Entusiast;" alt="Typing SVG" />
 
+</p>
 ###
 ###
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=35&duration=4000&pause=1000&color=B3F79A&vCenter=true&width=435&lines=Hello%2C+it's+Smiriti+Kapoor+!;I+am+a+Software+Developer" alt="Typing SVG" /></a>
