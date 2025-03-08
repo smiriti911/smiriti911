@@ -81,57 +81,44 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 </div>
+<h2>Backend</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Node.js</th>
+      <th>Express</th>
+      <th>Java</th>
+      <th>Spring Boot</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=express" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=java" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=spring" width="50"></td>
+    </tr>
+  </tbody>
+</table>
 
-<div style="display: flex; gap: 2%; justify-content: center; width: 100%;">
-    <div>
-        <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; border-collapse: collapse; padding: 10px; width: 300px;">
-            <thead>
-                <tr>
-                    <th colspan="4" style="color: white; text-align: center;">Backend</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td align="center" style="border: none;">
-                        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-                    </td>
-                    <td align="center" style="border: none;">
-                        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-                    </td>
-                    <td align="center" style="border: none;">
-                        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
-                    </td>
-                    <td align="center" style="border: none;">
-                        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring Boot"/><br>Spring Boot
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-    <div>
-        <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; border-collapse: collapse; padding: 10px; width: 300px;">
-            <thead>
-                <tr>
-                    <th colspan="3" style="color: white; text-align: center;">Database</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td align="center" style="border: none;">
-                        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-                    </td>
-                    <td align="center" style="border: none;">
-                        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-                    </td>
-                    <td align="center" style="border: none;">
-                        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
+<h2>Database</h2>
+<table>
+  <thead>
+    <tr>
+      <th>MySQL</th>
+      <th>MongoDB</th>
+      <th>PostgreSQL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=postgresql" width="50"></td>
+    </tr>
+  </tbody>
+</table>
 
-</div>
     <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
       <thead>
         <tr>
