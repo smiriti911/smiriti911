@@ -81,11 +81,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 </div> 
-
-
 <div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
-
- <div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; width: 100%; flex-wrap: wrap;">
 
   <!-- Backend Table -->
   <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 400px; text-align: center;">
@@ -99,26 +95,28 @@ I’m driven by a love for solving problems! With a technical background, I’ve
         <td style="border: none;">
           <table style="margin: auto; border-collapse: collapse;">
             <tr>
+              <!-- Node.js -->
               <td align="center" style="border: none;">
                 <a href="https://nodejs.org" style="color: white;">
                   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
                 </a>
                 <br>Node.js
               </td>
+              <!-- Express -->
               <td align="center" style="border: none;">
                 <a href="https://expressjs.com" style="color: white;">
                   <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
                 </a>
                 <br>Express
               </td>
-            </tr>
-            <tr>
+              <!-- Java -->
               <td align="center" style="border: none;">
                 <a href="https://www.java.com" style="color: white;">
                   <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
                 </a>
                 <br>Java
               </td>
+              <!-- SpringBoot -->
               <td align="center" style="border: none;">
                 <a href="https://spring.io" style="color: white;">
                   <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/>
@@ -144,12 +142,14 @@ I’m driven by a love for solving problems! With a technical background, I’ve
         <td style="border: none;">
           <table style="margin: auto; border-collapse: collapse;">
             <tr>
+              <!-- Docker -->
               <td align="center" style="border: none;">
                 <a href="https://www.docker.com" style="color: white;">
                   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
                 </a>
                 <br>Docker
               </td>
+              <!-- Kubernetes -->
               <td align="center" style="border: none;">
                 <a href="https://kubernetes.io" style="color: white;">
                   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
@@ -164,7 +164,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </table>
 
 </div>
-
 
 
 
