@@ -109,54 +109,54 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </table>
 </div>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Database</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+  <!-- Database Table -->
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px;">
+    <thead>
+      <tr>
+        <th colspan="3" align="center" style="color: white;">Database</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-<div align="center">
+  <!-- Containerization & Orchestration Table -->
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px;">
+    <thead>
+      <tr>
+        <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
 </div>
 
