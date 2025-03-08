@@ -25,219 +25,212 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </h1>
 
 <h3 align="center">Web Development</h3>
+make this well aligned and pretty i do not want the table lines to be visible make sure they take less space veritically 
 <div align="center">
-<!-- Frontend -->
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; margin-bottom: 15px;">
-  <thead>
-    <tr>
-      <th colspan="7" align="center" style="padding: 8px; color: white; border: none;">Frontend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/><br>
-        <span style="font-size: 12px;">Next.js</span>
-      </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS"/><br>
-        <span style="font-size: 12px;">Tailwind</span>
-      </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/><br>
-        <span style="font-size: 12px;">React</span>
-      </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40"/><br>
-        <span style="font-size: 12px;">TypeScript</span>
-      </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/><br>
-        <span style="font-size: 12px;">JavaScript</span>
-      </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40" alt="HTML"/><br>
-        <span style="font-size: 12px;">HTML</span>
-      </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40" alt="CSS"/><br>
-        <span style="font-size: 12px;">CSS</span>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- Backend and Database side by side -->
-<table>
-  <tr>
-    <td>
-      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-        <thead>
-          <tr>
-            <th colspan="4" align="center" style="padding: 8px; color: white; border: none;">Backend</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" height="40" alt="Node.js"/><br>
-              <span style="font-size: 12px;">Node.js</span>
-            </td>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/><br>
-              <span style="font-size: 12px;">Express</span>
-            </td>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/><br>
-              <span style="font-size: 12px;">Java</span>
-            </td>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="SpringBoot"/><br>
-              <span style="font-size: 12px;">SpringBoot</span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-    <td>
-      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-        <thead>
-          <tr>
-            <th colspan="3" align="center" style="padding: 8px; color: white; border: none;">Database</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40"/><br>
-              <span style="font-size: 12px;">MySQL</span>
-            </td>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/><br>
-              <span style="font-size: 12px;">MongoDB</span>
-            </td>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/><br>
-              <span style="font-size: 12px;">PostgreSQL</span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<!-- Cloud and Containerization side by side -->
-<table>
-  <tr>
-    <td>
-      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-        <thead>
-          <tr>
-            <th colspan="3" align="center" style="padding: 8px; color: white; border: none;">Cloud Providers</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/><br>
-              <span style="font-size: 12px;">Azure</span>
-            </td>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" height="40"/><br>
-              <span style="font-size: 12px;">GCP</span>
-            </td>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40"/><br>
-              <span style="font-size: 12px;">AWS</span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-    <td>
-      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-        <thead>
-          <tr>
-            <th colspan="2" align="center" style="padding: 8px; color: white; border: none;">Containerization</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/><br>
-              <span style="font-size: 12px;">Docker</span>
-            </td>
-            <td align="center" style="border: none; padding: 5px;">
-              <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/><br>
-              <span style="font-size: 12px;">Kubernetes</span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<!-- AI/ML & Data Science -->
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; margin-bottom: 15px;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="padding: 8px; color: white; border: none;">AI/ML & Data Science - Languages & Libraries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40"/><br>
-        <span style="font-size: 12px;">Python</span>
-      </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="40" height="40"/><br>
-        <span style="font-size: 12px;">NumPy</span>
-      </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="60" height="40"/><br>
-        <span style="font-size: 12px;">Pandas</span>
-      </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="60" height="50"/><br>
-        <span style="font-size: 12px;">TensorFlow</span>
-      </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/><br>
-        <span style="font-size: 12px;">PyTorch</span>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- Frameworks & Tools -->
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="3" align="center" style="padding: 8px; color: white; border: none;">AI/ML - Frameworks & Tools</th>
+      <th colspan="8" align="center" style="color: white;">Frontend</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="60" height="40"/><br>
-        <span style="font-size: 12px;">LangChain</span>
+      <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>Next.js
       </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="40" height="45"/><br>
-        <span style="font-size: 12px;">Ollama</span>
+      <td align="center" style="border: none;">
+        <a href="https://tailwindcss.com/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        </a>
+        <br>Tailwind CSS
       </td>
-      <td align="center" style="border: none; padding: 5px;">
-        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="40" height="40"/><br>
-        <span style="font-size: 12px;">LlamaIndex</span>
+      <td align="center" style="border: none;">
+        <a href="https://reactjs.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>React
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.typescriptlang.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
       </td>
     </tr>
   </tbody>
 </table>
 </div>
 
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+    <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
+      </td>
+        <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Java"/><br>SpringBoot
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%;">
+  <!-- Database Table -->
+    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
+      <thead>
+        <tr>
+          <th colspan="3" align="center" style="color: white;">Database</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+          </td>
+          <td align="center" style="border: none;">
+            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+          </td>
+          <td align="center" style="border: none;">
+            <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- Containerization & Orchestration Table -->
+    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
+      <thead>
+        <tr>
+          <th colspan="2" align="center" style="color: white;">Containerization & Orchestration</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+          </td>
+          <td align="center" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+</div>
+
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">AI/ML & Data Science</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
+      </td>
+      <td align="center" style="border: none;">
+<!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
+      </td>
+    </tr>
+  </tbody>
+ </table>
+</div>
+
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
+      </td>
+  <td align="center" style="border: none;">
+        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 <div align="center">
 
   <!-- GitHub Streak & Stats (Side by Side) -->
