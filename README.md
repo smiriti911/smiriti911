@@ -85,6 +85,8 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
 
+ <div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; width: 100%; flex-wrap: wrap;">
+
   <!-- Backend Table -->
   <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 400px; text-align: center;">
     <thead>
