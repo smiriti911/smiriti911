@@ -5,7 +5,7 @@
 </div>
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Smiriti Kapoor</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=35&pause=1000&color=F78CCD&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=35&pause=1000&color=F78CCD&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Engineer;AI+Entusiast;" alt="Typing SVG" />
 
 </p>
 
@@ -80,138 +80,102 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     </tr>
   </tbody>
 </table>
-</div> 
+</div>
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; width: 100%; flex-wrap: wrap;">
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+    <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
+      </td>
+        <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Java"/><br>SpringBoot
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-  <!-- Backend Table -->
-  <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 400px; text-align: center;">
-    <thead>
-      <tr>
-        <th style="color: white; padding: 10px;">Backend</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="border: none;">
-          <table style="margin: auto; border-collapse: collapse;">
-            <tr>
-              <td align="center" style="border: none;">
-                <a href="https://nodejs.org" style="color: white;">
-                  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
-                </a>
-                <br>Node.js
-              </td>
-              <td align="center" style="border: none;">
-                <a href="https://expressjs.com" style="color: white;">
-                  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
-                </a>
-                <br>Express
-              </td>
-            </tr>
-            <tr>
-              <td align="center" style="border: none;">
-                <a href="https://www.java.com" style="color: white;">
-                  <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-                </a>
-                <br>Java
-              </td>
-              <td align="center" style="border: none;">
-                <a href="https://spring.io" style="color: white;">
-                  <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/>
-                </a>
-                <br>SpringBoot
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%;">
+  <!-- Database Table -->
+    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
+      <thead>
+        <tr>
+          <th colspan="3" align="center" style="color: white;">Database</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+          </td>
+          <td align="center" style="border: none;">
+            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+          </td>
+          <td align="center" style="border: none;">
+            <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- Containerization & Orchestration Table -->
+    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
+      <thead>
+        <tr>
+          <th colspan="2" align="center" style="color: white;">Containerization & Orchestration</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+          </td>
+          <td align="center" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
-  <!-- Containerization Table -->
-  <table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; width: 400px; text-align: center;">
-    <thead>
-      <tr>
-        <th style="color: white; padding: 10px;">Containerization</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="border: none;">
-          <table style="margin: auto; border-collapse: collapse;">
-            <tr>
-              <td align="center" style="border: none;">
-                <a href="https://www.docker.com" style="color: white;">
-                  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
-                </a>
-                <br>Docker
-              </td>
-              <td align="center" style="border: none;">
-                <a href="https://kubernetes.io" style="color: white;">
-                  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
-                </a>
-                <br>Kubernetes
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
+  </div>
 </div>
 
 
 <div align="center">
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%;">
-  
-  <!-- Database Table -->
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
-    <thead>
-      <tr>
-        <th colspan="3" align="center" style="color: white;">Database</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <!-- Cloud Providers Table -->
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
-    <thead>
-      <tr>
-        <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
-
 
 <h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
@@ -280,7 +244,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/smiriti911/github-readme-activity-graph">
-    <img style="width: 90%;" src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=00ff00&line=ff007f&point=00ff00&area=false&hide_border=true" alt="GitHub Activity Graph"/>
+    <img style="width: 90%;" src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=00ff00&line=ff007f&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 
 </div>
