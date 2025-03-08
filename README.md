@@ -99,8 +99,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
           <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/> Java &nbsp;&nbsp;
           <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/> SpringBoot
         </td>
-
-        <!-- Containerization Row -->
         <td align="center" style="border: none;">
           <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/> Docker &nbsp;&nbsp;
           <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/> Kubernetes
