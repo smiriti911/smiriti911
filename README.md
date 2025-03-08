@@ -25,7 +25,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </h1>
 
 <h3 align="center">Web Development</h3>
-
 <div align="center">
 <!-- Frontend -->
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; margin-bottom: 15px;">
@@ -69,106 +68,116 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </table>
 
 <!-- Backend and Database side by side -->
-<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="4" align="center" style="padding: 8px; color: white; border: none;">Backend</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" height="40" alt="Node.js"/><br>
-          <span style="font-size: 12px;">Node.js</span>
-        </td>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/><br>
-          <span style="font-size: 12px;">Express</span>
-        </td>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/><br>
-          <span style="font-size: 12px;">Java</span>
-        </td>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="SpringBoot"/><br>
-          <span style="font-size: 12px;">SpringBoot</span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="3" align="center" style="padding: 8px; color: white; border: none;">Database</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40"/><br>
-          <span style="font-size: 12px;">MySQL</span>
-        </td>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/><br>
-          <span style="font-size: 12px;">MongoDB</span>
-        </td>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/><br>
-          <span style="font-size: 12px;">PostgreSQL</span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table>
+  <tr>
+    <td>
+      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+        <thead>
+          <tr>
+            <th colspan="4" align="center" style="padding: 8px; color: white; border: none;">Backend</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" height="40" alt="Node.js"/><br>
+              <span style="font-size: 12px;">Node.js</span>
+            </td>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/><br>
+              <span style="font-size: 12px;">Express</span>
+            </td>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/><br>
+              <span style="font-size: 12px;">Java</span>
+            </td>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="SpringBoot"/><br>
+              <span style="font-size: 12px;">SpringBoot</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td>
+      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+        <thead>
+          <tr>
+            <th colspan="3" align="center" style="padding: 8px; color: white; border: none;">Database</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40"/><br>
+              <span style="font-size: 12px;">MySQL</span>
+            </td>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/><br>
+              <span style="font-size: 12px;">MongoDB</span>
+            </td>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/><br>
+              <span style="font-size: 12px;">PostgreSQL</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <!-- Cloud and Containerization side by side -->
-<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="3" align="center" style="padding: 8px; color: white; border: none;">Cloud Providers</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/><br>
-          <span style="font-size: 12px;">Azure</span>
-        </td>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" height="40"/><br>
-          <span style="font-size: 12px;">GCP</span>
-        </td>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40"/><br>
-          <span style="font-size: 12px;">AWS</span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="2" align="center" style="padding: 8px; color: white; border: none;">Containerization</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/><br>
-          <span style="font-size: 12px;">Docker</span>
-        </td>
-        <td align="center" style="border: none; padding: 5px;">
-          <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/><br>
-          <span style="font-size: 12px;">Kubernetes</span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table>
+  <tr>
+    <td>
+      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+        <thead>
+          <tr>
+            <th colspan="3" align="center" style="padding: 8px; color: white; border: none;">Cloud Providers</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/><br>
+              <span style="font-size: 12px;">Azure</span>
+            </td>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" height="40"/><br>
+              <span style="font-size: 12px;">GCP</span>
+            </td>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40"/><br>
+              <span style="font-size: 12px;">AWS</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td>
+      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+        <thead>
+          <tr>
+            <th colspan="2" align="center" style="padding: 8px; color: white; border: none;">Containerization</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/><br>
+              <span style="font-size: 12px;">Docker</span>
+            </td>
+            <td align="center" style="border: none; padding: 5px;">
+              <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/><br>
+              <span style="font-size: 12px;">Kubernetes</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <!-- AI/ML & Data Science -->
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; margin-bottom: 15px;">
@@ -228,7 +237,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 </div>
-
 ###
 <div align="center">
 
