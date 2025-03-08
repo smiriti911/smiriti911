@@ -81,43 +81,29 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 </div>
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 600px;">
     <thead>
       <tr>
-        <th colspan="4" align="center" style="color: white;">Backend</th>
+        <th align="center" style="color: white; width: 50%;">Backend</th>
+        <th align="center" style="color: white; width: 50%;">Containerization & Orchestration</th>
       </tr>
     </thead>
     <tbody>
       <tr>
+        <!-- Backend Column -->
         <td align="center" style="border: none;">
           <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-        </td>
-        <td align="center" style="border: none;">
+          <br>
           <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-        </td>
-        <td align="center" style="border: none;">
+          <br>
           <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
-        </td>
-        <td align="center" style="border: none;">
+          <br>
           <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/><br>SpringBoot
         </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
-    <thead>
-      <tr>
-        <th colspan="2" align="center" style="color: white;">Container</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
         <td align="center" style="border: none;">
           <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
-        </td>
-        <td align="center" style="border: none;">
+          <br>
           <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
         </td>
       </tr>
