@@ -110,9 +110,9 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </div>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <!-- Database Table -->
-    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%;">
+  <!-- Database Table -->
+    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
       <thead>
         <tr>
           <th colspan="3" align="center" style="color: white;">Database</th>
@@ -133,7 +133,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
       </tbody>
     </table>
     <!-- Containerization & Orchestration Table -->
-    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px;">
+    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
       <thead>
         <tr>
           <th colspan="2" align="center" style="color: white;">Containerization & Orchestration</th>
@@ -153,6 +153,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
   </div>
 </div>
+
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
