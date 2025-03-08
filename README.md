@@ -83,7 +83,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </div> 
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 700px;">
     <thead>
       <tr>
         <th align="center" style="color: white; width: 50%;">Backend</th>
@@ -94,20 +94,58 @@ I’m driven by a love for solving problems! With a technical background, I’ve
       <tr>
         <!-- Backend Row -->
         <td align="center" style="border: none;">
-          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/> Node.js &nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/> Express &nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/> Java &nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/> SpringBoot
+          <table>
+            <tr>
+              <td align="center" style="border: none;">
+                <a href="https://nodejs.org" style="color: white;">
+                  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
+                </a>
+                <br>Node.js
+              </td>
+              <td align="center" style="border: none;">
+                <a href="https://expressjs.com" style="color: white;">
+                  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
+                </a>
+                <br>Express
+              </td>
+              <td align="center" style="border: none;">
+                <a href="https://www.java.com" style="color: white;">
+                  <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
+                </a>
+                <br>Java
+              </td>
+              <td align="center" style="border: none;">
+                <a href="https://spring.io" style="color: white;">
+                  <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/>
+                </a>
+                <br>SpringBoot
+              </td>
+            </tr>
+          </table>
         </td>
         <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/> Docker &nbsp;&nbsp;
-          <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/> Kubernetes
+          <table>
+            <tr>
+              <td align="center" style="border: none;">
+                <a href="https://www.docker.com" style="color: white;">
+                  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
+                </a>
+                <br>Docker
+              </td>
+              <td align="center" style="border: none;">
+                <a href="https://kubernetes.io" style="color: white;">
+                  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
+                </a>
+                <br>Kubernetes
+              </td>
+            </tr>
+          </table>
         </td>
       </tr>
     </tbody>
   </table>
 </div>
- 
+
 
 <div align="center">
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%;">
