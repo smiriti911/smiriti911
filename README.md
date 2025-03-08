@@ -81,14 +81,12 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 </div> 
-
-
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 600px;">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 700px;">
     <thead>
       <tr>
         <th align="center" style="color: white; width: 50%;">Backend</th>
-        <th align="center" style="color: white; width: 50%;">Containerization & Orchestration</th>
+        <th align="center" style="color: white; width: 50%;">Containerization</th>
       </tr>
     </thead>
     <tbody>
@@ -108,8 +106,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     </tbody>
   </table>
 </div>
-
-
 
 
 <div align="center">
