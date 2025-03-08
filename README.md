@@ -255,22 +255,8 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <br>
 
   <div align="center">
-    <table>
-      <tr>
-        <td>
-          <!-- Top Languages -->
+    <!-- Top Languages -->
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiriti911&hide=html&hide_border=true&layout=compact&langs_count=8&theme=transparent&title_color=ff007f&text_color=00ff00" alt="Top Languages">
-        </td>
-        <td>
-          <!-- Repos Per Language -->
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smiriti911&theme=transparent&hide_border=true&title_color=ff007f&text_color=00ff00" alt="Repos Per Language">
-        </td>
-        <td>
-          <!-- Most Commit Language -->
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smiriti911&theme=transparent&hide_border=true&title_color=ff007f&text_color=00ff00" alt="Most Commit Language">
-        </td>
-      </tr>
-    </table>
   </div>
 </div>
 
