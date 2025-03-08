@@ -242,8 +242,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=15&stroke=ff007f&fire=ff007f&ring=00ff00&currStreakLabel=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00" alt="GitHub Streak" />
 
-    <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=true&border_radius=15&show_icons=true&theme=transparent&icon_color=ff007f&text_color=00ff00&title_color=ff007f" alt="Smiriti's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=true&border_radius=15&show_icons=true&theme=transparent&icon_color=ff007f&text_color=00ff00&title_color=ff007f" alt="Smiriti's GitHub stats">
 
   
   <br>
@@ -273,10 +272,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
       </tr>
     </table>
   </div>
-
-
-  <!-- Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smiriti911&theme=transparent&hide_border=true&title_color=ff007f&text_color=00ff00">
 </div>
 
 
