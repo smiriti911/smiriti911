@@ -240,11 +240,11 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 <div align="center">
 
   <!-- GitHub Streak & Stats (Side by Side) -->
-  <p align="center">
+  <div align="center">
     <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=15&stroke=ff007f&fire=ff007f&ring=00ff00&currStreakLabel=00ff00&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
     
 <img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=false&border_radius=15&show_icons=true&theme=transparent&icon_color=ff007f&text_color=ffffff&title_color=00ff00" alt="Smiriti's GitHub stats">
-  </p>
+  </div>
 
   <br>
 
