@@ -256,7 +256,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/smiriti911/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=ffffff&line=ff007f&point=00ff00&area=true&hide_border=false&border_radius=15" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=00ff00&line=ff007f&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 
 </div>
