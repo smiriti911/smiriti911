@@ -253,9 +253,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </div>
 
 
-[![Smiriti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=00ff00&line=ff007f&point=00ff00&area=true&hide_border=true)](https://github.com/smiriti911/github-readme-activity-graph)
-
-
 
 
 
