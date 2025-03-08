@@ -247,7 +247,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
       </td>
       <td>
         <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=false&border_radius=15&show_icons=true&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=ff007f" alt="Smiriti's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=false&border_radius=15&show_icons=true&theme=transparent&icon_color=ff007f&text_color=ffffff&title_color=00ff00" alt="Smiriti's GitHub stats">
       </td>
     </tr>
   </table>
