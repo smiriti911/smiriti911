@@ -240,24 +240,24 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 <div align="center">
  
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=15&stroke=6a0dad&fire=6a0dad&ring=ffcc00&currStreakLabel=ffcc00&currStreakNum=ffcc00&sideNums=ffcc00&dates=ffcc00" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=smiriti911&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=15&stroke=6a0dad&fire=6a0dad&ring=ffcc00&currStreakLabel=ffcc00&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
 
   <br>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=false&border_radius=15&show_icons=true&theme=transparent&icon_color=6a0dad&text_color=ffcc00&title_color=6a0dad" alt="Smiriti's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=smiriti911&hide_border=false&border_radius=15&show_icons=true&theme=transparent&icon_color=ffcc00&text_color=ffffff&title_color=6a0dad" alt="Smiriti's GitHub stats">
 
   <br>
 
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/smiriti911/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=ffcc00&line=6a0dad&point=ffcc00&area=true&hide_border=false&border_radius=15" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiriti911&bg_color=00000000&color=ffffff&line=6a0dad&point=ffcc00&area=true&hide_border=false&border_radius=15" alt="GitHub Activity Graph"/>
   </a>
 
   <br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiriti911&hide=html&hide_border=false&layout=compact&langs_count=8&theme=transparent&title_color=6a0dad&text_color=ffcc00" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiriti911&hide=html&hide_border=false&layout=compact&langs_count=8&theme=transparent&title_color=6a0dad&text_color=ffffff" alt="Top Languages">
 
 </div>
 
