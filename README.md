@@ -237,7 +237,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 </div>
-###
+
 <div align="center">
 
   <!-- GitHub Streak & Stats (Side by Side) -->
