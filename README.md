@@ -81,30 +81,38 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </tbody>
 </table>
 </div> 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 700px;">
-    <thead>
-      <tr>
-        <th align="center" style="color: white; width: 50%;">Backend</th>
-        <th align="center" style="color: white; width: 50%;">Containerization</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <!-- Backend Row -->
-        <td align="center" style="border: none;">
-          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/> Node.js &nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/> Express &nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/> Java &nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/> SpringBoot
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/> Docker &nbsp;&nbsp;
-          <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/> Kubernetes
-        </td>
-      </tr>
-    </tbody>
-  </table>
+
+
+
+<div style="display: flex; justify-content: center; background-color: black; padding: 20px; border-radius: 15px;">
+  <!-- Backend -->
+  <div style="display: flex; gap: 30px; text-align: center; padding: 10px;">
+    <div>
+      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
+      <p style="color: white; margin-top: 5px;">Node.js</p>
+    </div>
+    <div>
+      <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
+      <p style="color: white; margin-top: 5px;">Express</p>
+    </div>
+    <div>
+      <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
+      <p style="color: white; margin-top: 5px;">Java</p>
+    </div>
+    <div>
+      <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/>
+      <p style="color: white; margin-top: 5px;">SpringBoot</p>
+    </div>
+    <div style="width: 2px; background-color: white; height: 70px;"></div> <!-- Vertical Separator -->
+    <div>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
+      <p style="color: white; margin-top: 5px;">Docker</p>
+    </div>
+    <div>
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
+      <p style="color: white; margin-top: 5px;">Kubernetes</p>
+    </div>
+  </div>
 </div>
 
 
