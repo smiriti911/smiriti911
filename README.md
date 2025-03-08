@@ -82,8 +82,8 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </table>
 </div>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<div style="display: flex; gap: 2%; justify-content: center; width: 100%;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; border-collapse:collapse; ">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Backend</th>
@@ -106,12 +106,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     </tr>
   </tbody>
 </table>
-</div>
-
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%;">
-  <!-- Database Table -->
-    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
+    <table style="background-color: black; color: white; border: none ; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px; border-collapse: collapse;">
       <thead>
         <tr>
           <th colspan="3" align="center" style="color: white;">Database</th>
@@ -131,6 +126,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
         </tr>
       </tbody>
     </table>
+</div>  
     <!-- Containerization & Orchestration Table -->
     <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
       <thead>
