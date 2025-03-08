@@ -80,7 +80,9 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     </tr>
   </tbody>
 </table>
-</div>
+</div> 
+
+
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 600px;">
     <thead>
@@ -91,25 +93,24 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     </thead>
     <tbody>
       <tr>
-        <!-- Backend Column -->
+        <!-- Backend Row -->
         <td align="center" style="border: none;">
-          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-          <br>
-          <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-          <br>
-          <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
-          <br>
-          <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/><br>SpringBoot
+          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/> Node.js &nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/> Express &nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/> Java &nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="SpringBoot"/> SpringBoot
         </td>
         <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
-          <br>
-          <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/> Docker &nbsp;&nbsp;
+          <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/> Kubernetes
         </td>
       </tr>
     </tbody>
   </table>
 </div>
+
+
+
 
 <div align="center">
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%;">
