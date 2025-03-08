@@ -130,10 +130,8 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     </tr>
   </tbody>
 </table>
-</div>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
@@ -156,6 +154,10 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     </tr>
   </tbody>
 </table>
+</div>
+
+<div align="center">
+
 </div>
 
 <div align="center">
