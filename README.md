@@ -127,6 +127,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 <div align="center">
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%;">
+  
   <!-- Database Table -->
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; padding: 10px; width: 300px;">
     <thead>
@@ -170,7 +171,9 @@ I’m driven by a love for solving problems! With a technical background, I’ve
       </tr>
     </tbody>
   </table>
+
 </div>
+
 
 <h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
