@@ -210,7 +210,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="background-color: black; color: black; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
