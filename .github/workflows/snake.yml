@@ -27,7 +27,8 @@ jobs:
           github_user_name: smiriti911
           outputs: |
             dist/snake.svg?palette=github-dark
-            dist/snake-custom.svg?color_snake=#f7929e&color_dots=#181b21,#50c878,#40b87c,#30a890,#2098a4
+            dist/snake-custom.svg?color_snake=#ff3355&color_dots=#000000,#00aa00,#008866,#0077aa,#005588
+
 
 
       - name: Push snake.svg to the output branch
