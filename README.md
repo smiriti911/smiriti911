@@ -17,6 +17,16 @@ I’m driven by a love for solving problems! With a technical background, I’ve
      This is the list of my skills and tools I am studying!
 -->
 
+## 📌 About Me
+
+- 🎯 Motivated and passionate **Computer Science and Engineering student** with strong problem-solving skills and a focus on **Data Science**  
+- 💻 Proficient in **React, Next.js, Node.js, Spring Boot, and Java**  
+- 🛠️ Built e-commerce platforms, AI-integrated tools, and personal portfolio sites  
+- 📈 Solved **350+ DSA problems** on LeetCode  
+- 🚀 Always learning new technologies and building impactful projects  
+- 🔍 Interested in **AI**, **cloud computing**, and **backend systems**
+
+
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" 
        width="50px" height="50px" 
