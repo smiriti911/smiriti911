@@ -4,7 +4,7 @@
 
 I'm extremely curious about everything and hellbent on mastering every skill I admire.
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on an ai powered cli tool
 - 🌱 I’m currently learning AI/ML
 - 💬 Ask me about design or tech or engineering
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/smiriti-kapoor011/)
