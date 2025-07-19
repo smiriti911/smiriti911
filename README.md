@@ -12,12 +12,3 @@ I'm extremely curious about everything and hellbent on mastering every skill I a
 
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,mongodb,express,react,nextjs,nodejs,tailwind,bootstrap,bash,aws,gcp,terraform,git,powershell,figma,ps,xd&perline=11)
-
-
-###
-
-<img src="https://github.com/smiriti911/smiriti911/blob/output/snake-custom.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/smiriti911/count.svg?" />
-</div>
