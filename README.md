@@ -1,26 +1,14 @@
-<div align="center"></div>
-
-<div>
-    <img src="./assets/head.gif" alt="About Me Terminal GIF"/>
-</div>
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Smiriti Kapoor</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=35&pause=1000&color=F78CCD&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;" alt="Typing SVG" />
-
-</p>
-
-
 ## Hi there, I'm Smiriti 👋
 
 ### I'm a Developer + Designer + IT undergrad
 
 I'm extremely curious about everything and hellbent on mastering every skill I admire.
 
-- 🔭 I’m currently working on [my institute's website](https://iiitbhopal-website.vercel.app/)
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning AI/ML
 - 💬 Ask me about design or tech or engineering
-- 📫 How to reach me: [Instagram](https://www.instagram.com/shock_train/) or [LinkedIn](https://www.linkedin.com/in/singhsatwik/)
-- ❤️ Things I love: Online scavenger hunts, [Competitve coding](https://www.codechef.com/users/ssatwik), [Designing stuff](https://www.behance.net/satwikdesigns)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/smiriti-kapoor011/)
+- ❤️ I’m passionate about learning new things, designing beautiful experiences, and solving real-world problems [Leetcode]([https://leetcode.com/u/smiritikapoor911/]), [My most recent work]([https://sync-ai-tool.vercel.app/])
 
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,mongodb,express,react,nextjs,nodejs,tailwind,bootstrap,bash,aws,gcp,terraform,git,powershell,figma,ps,xd&perline=11)
