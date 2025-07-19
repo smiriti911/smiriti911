@@ -10,22 +10,20 @@
 </p>
 
 
-### My mission
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
+## Hi there, I'm Smiriti 👋
 
-<!--
-     This is the list of my skills and tools I am studying!
--->
+### I'm a Developer + Designer + IT undergrad
 
-## 📌 About Me
+I'm extremely curious about everything and hellbent on mastering every skill I admire.
 
-- 🎯 Motivated and passionate **Computer Science and Engineering student** with strong problem-solving skills and a focus on **Data Science**  
-- 💻 Proficient in **React, Next.js, Node.js, Spring Boot, and Java**  
-- 🛠️ Built e-commerce platforms, AI-integrated tools, and personal portfolio sites  
-- 📈 Solved **350+ DSA problems** on LeetCode  
-- 🚀 Always learning new technologies and building impactful projects  
-- 🔍 Interested in **AI**, **cloud computing**, and **backend systems**
+- 🔭 I’m currently working on [my institute's website](https://iiitbhopal-website.vercel.app/)
+- 🌱 I’m currently learning AI/ML
+- 💬 Ask me about design or tech or engineering
+- 📫 How to reach me: [Instagram](https://www.instagram.com/shock_train/) or [LinkedIn](https://www.linkedin.com/in/singhsatwik/)
+- ❤️ Things I love: Online scavenger hunts, [Competitve coding](https://www.codechef.com/users/ssatwik), [Designing stuff](https://www.behance.net/satwikdesigns)
 
+
+![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,mongodb,express,react,nextjs,nodejs,tailwind,bootstrap,bash,aws,gcp,terraform,git,powershell,figma,ps,xd&perline=11)
 
 
   <!-- GitHub Streak & Stats (Side by Side) -->
